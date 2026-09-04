@@ -1,0 +1,15 @@
+{
+  "name": "Chat for all",
+  "short_name": "Chat for all",
+  "start_url": "https://test.awsweb.in/php-json-chat/chat.php",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "image_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
